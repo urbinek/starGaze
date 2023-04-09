@@ -1,0 +1,9 @@
+{
+  "network": {
+      "ssid": "wifi_ssid",
+      "password": "pa$$w0rd"
+  },
+  "starGaze": {
+      "api_port": 80
+  }
+}
